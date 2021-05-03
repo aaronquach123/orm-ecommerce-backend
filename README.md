@@ -10,21 +10,22 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
   ## Installation
-  1. Clone repo to desktop 2. Enable database by running source db/schema.sql in mysql. 3. run npm run seed to get all the tables  and to populate the tables with your data. 4. Run npm start to initialize your server. 5. Update check and post new items through insomnia
+  1. Clone repo to desktop 
+  2. Enable database by running source db/schema.sql in mysql. 
+  3. run npm run seed to get all the tables  and to populate the tables with your data. 
+  4. Run npm start to initialize your server.
+  5. Update check and post new items through insomnia
 
   ## Usage
-  
+  Check this video for a complete tutorial!
+  https://youtu.be/YhmmQ5JP110
 
   ## License
   ![badge](https://img.shields.io/badge/license-Open-blue)
-
-  ## Contributing
-  
 
   ## Tests
   Check routes through insomnia
